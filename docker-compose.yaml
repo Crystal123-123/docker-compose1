@@ -5,7 +5,7 @@ services:
    ports:
    - "8080:8080"
    volumes:
-   - "/root/aws:/usr/local/tomcat/webapps
+   - "/root/aws:/usr/local/tomcat/webapps"
 
 
 
