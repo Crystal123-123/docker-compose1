@@ -4,6 +4,8 @@ services:
    image: 'tomcat:8'
    ports:
    - "8080:8080"
+   volumes:
+   - "/root/aws:/usr/local/tomcat/webapps
 
 
 
