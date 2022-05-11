@@ -3,7 +3,7 @@ services:
  tomcat:
    image: 'tomcat:8'
    ports:
-   - "8014:8080"
+   - "8080:8080"
 
 
 
